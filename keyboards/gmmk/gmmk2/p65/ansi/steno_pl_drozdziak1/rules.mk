@@ -1,0 +1,4 @@
+STENO_ENABLE = yes
+LTO_ENABLE = yes
+NO_TAPPING = yes
+NO_PRINT = yes
