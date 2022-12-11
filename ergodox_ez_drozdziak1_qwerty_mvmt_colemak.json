@@ -67,7 +67,7 @@
       "KC_LGUI",
       "KC_LALT",
       "OSL(1)",
-      "TO(0)",
+      "KC_NO",
       "KC_LBRC",
       "KC_RBRC",
       "KC_EQL",
