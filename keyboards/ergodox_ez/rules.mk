@@ -18,3 +18,5 @@ MOUSE_SHARED_EP = no
 DEFAULT_FOLDER = ergodox_ez/base
 
 CAPS_WORD_ENABLE = yes
+
+VIA_ENABLE = yes
